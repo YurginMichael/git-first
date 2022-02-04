@@ -6,3 +6,6 @@ export default function (){
         </div>
     )
 }
+
+
+console.log('test 2')
